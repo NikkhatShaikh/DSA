@@ -1,5 +1,11 @@
 package arrays;
-
+/**
+ * 1 - calculate the expected length of arr length+1
+ * 2 - calculate sum of consecutive number using n*(n+1)/2
+ * 3 - calculate actual sum of element using for loop
+ * 4 - find the diff between expected sum and actual sum that's the missing number
+ *
+ * */
 public class FindMissingNumberFromArray {
     public static void main(String[] args) {
 
