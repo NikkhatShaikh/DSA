@@ -1,4 +1,4 @@
-package programs;
+package arrays;
 
 public class SearchElementFromArray {
 
